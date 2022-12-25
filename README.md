@@ -10,4 +10,4 @@ This repo is just an attempt to read in and factorize a file of numbers.
 
 ## Author :🦩:
 
-[GitHub](https://github.com/iVGeek)iVGeek
+[GitHub](https://github.com/iVGeek)|iVGeek
